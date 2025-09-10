@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.first table, 
+.first th, 
+.first td {
+  border: 2px solid;
+  font-size: 16px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+th{
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;  
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 36px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3{
+    color: rgb(35, 33, 33);
+    font-size: 14px;
+    text-align: center;
+}
+
+nav {
+  background: linear-gradient(to right, lightblue, rgb(255, 79, 79));
+  padding: 20px;
+}
+
+p {
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px; 
+}
+
+.pcenter{
+    text-align: center;
+}
+
+.tab {
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px; 
+}
+
+.textcolor{
+    color: black;
+}
+
+h2{
+     text-align: center;
+}
+
+.center {
+    display: block;     
+    margin: 0 auto; 
+    text-align: center;
+}
+
+a{
+    color: black;
+}
+.second td{
+    padding-block: 8px;
+    text-align: center;
+    border: 2px solid black;
+    font-size: 16px;
+
+}
